@@ -1,4 +1,4 @@
-[10/29/2026 1:17 PM] Naili Abderrahim: # WINSTAY
+ # WINSTAY
 
 Technical Architecture & Specification Document
 
