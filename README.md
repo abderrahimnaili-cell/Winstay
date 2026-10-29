@@ -3,8 +3,7 @@
 Technical Architecture & Specification Document
 
 > Architecture: Three-Tier Software Architecture
-> Project Repository: [https://github.com/your-username/winstay](https://github.com/abderrahimnaili-cell/Winstay
-)
+> Project Repository: [https://github.com/your-username/winstay](https://github.com/abderrahimnaili-cell/Winstay)
 
 ---
 
